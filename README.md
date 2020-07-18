@@ -1,4 +1,10 @@
-# pomodoro-clock
+# Vue Foundation
+
+Creating Vue projects to help other people also learn and take reference from the same.
+
+## Projects
+* Pomodoro Clock
+* Coming Soon
 
 ## Project setup
 ```
